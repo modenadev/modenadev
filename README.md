@@ -1,7 +1,6 @@
 ### Olá 👋
 <ul>
-  <li> Meu nome é ruan <li>
-  <li>📚 Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas;</li>
+  <li>👨‍💻 Meu nome é Ruan, tenho 21 anos e atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas </li>
 </ul>
 
 <div align="center" height="190em">
@@ -16,10 +15,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Typescript" height="30" width="40" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="ReactJS" height="30" width="40" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    
   </div>
 </div>
 
