@@ -2,7 +2,6 @@
 <ul>
   <li> Meu nome é ruan <li>
   <li>📚 Atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas;</li>
-  
 </ul>
 
 <div align="center" height="190em">
@@ -31,7 +30,7 @@
    <a href = "mailto:ruanm0dena@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/anabeatrizsantuccicarmoni" target="_blank">
+  <a href="https://www.linkedin.com/in/ruan-módena-1a4859231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
