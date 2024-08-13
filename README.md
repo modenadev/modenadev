@@ -25,7 +25,7 @@
 
 <div align="center"> 
   <h3>Contato:</h3>
-   <a href = "mailto:ruanm0dena@outlook.com">
+   <a href = "mailto:ruanscorpionn@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/ruan-módena-1a4859231/" target="_blank">
