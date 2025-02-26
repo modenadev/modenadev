@@ -1,6 +1,6 @@
 ### Olá 👋
 <ul>
-  <li>👨‍💻 Meu nome é Ruan, tenho 21 anos e atualmente curso o 3º semestre de Análise e Desenvolvimento de Sistemas </li>
+  <li>👨‍💻 Meu nome é Ruan, tenho 21 anos e atualmente curso o 4º semestre de Análise e Desenvolvimento de Sistemas </li>
 </ul>
 
 <div align="center" height="190em">
